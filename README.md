@@ -6,7 +6,7 @@
 
 代码测试所用的tensorflow版本：`tensorflow-gpu 1.1.0`
 
-运行算法: `python demo_DenseNet121.py`
+通过命令`python demo_DenseNet121.py`来展示通用对抗扰动的实际效果
 
 遵循`demo_DenseNet121.py`的流程可以生成你自己的通用对抗扰动
 
